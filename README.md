@@ -1,2 +1,2 @@
 # vehicleACC
-Java app resposible for collecting and publishing traffic accidents data.
+Java app responsible for collecting and publishing traffic accidents data.
